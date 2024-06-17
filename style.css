@@ -1,0 +1,221 @@
+.one{
+    
+
+    font-size: large;
+    color: white;
+}
+.two{
+    padding-left: 100px;
+    font-size: large;
+    color: white;
+}
+.four{
+    background: linear-gradient(rgba(2, 2, 33, 0.833),rgba(3, 3, 41, 0.405)),url(image/background.jpg);
+    height:80vh;
+    width:100%;
+    background-size: cover;
+    background-position: right center;
+    box-sizing: border-box;
+}
+.five{
+    font-size: xx-large;
+    font-family:cursive;
+    font-weight:bolder;
+    padding-top:15% ;
+    padding-left: 7%
+
+}
+.six{
+    padding-left:7% ;
+    padding-top: 30px;
+}
+.seven{
+    padding-left: 7%;
+}
+.eight{
+    margin-left:7%;
+    margin-top:3%;
+}
+.nine{
+    height: 75vh;
+    width: 100%;
+}
+.eleven{
+    text-align: center;
+}
+.thirteen{
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(rgba(61, 59, 59, 0.427),rgba(72, 70, 70, 0.395)),url(image/6.jpg);
+    background-position: top center;
+    position: relative;
+    box-sizing: border-box;
+}
+.fourteen{
+    background-color: rgba(22, 22, 22, 0.827);
+    padding-top: 350px;
+    height: 85vh;
+    box-sizing: border-box;
+    border-radius: 35px;
+    position: relative;
+}
+.fifteen{
+    position: absolute;
+    top:50%;
+    left: 50%;
+  transform: translate(-50%,-50%);
+  height:fit-content;
+  width:fit-content;
+opacity: .8;
+border-radius: 35px;
+}
+.sixteen{
+    height:auto;
+    width:100%;
+    background-color: rgb(0, 0, 0);
+}
+.seventeen{
+    font-weight: 900;
+   align-self:first baseline;
+   margin-left: 30px;
+
+   }
+.eighteen{
+    align-self:first baseline;
+    margin-left: 30px;
+    display: flex;
+}
+.twenty{
+    margin-left: 95px;
+    margin-top: 40px;
+}
+.twentyone{
+    column-gap: 160px;
+    row-gap: 80px;
+}
+.twentytwo{
+    padding-left: 90px;
+}
+.twentythree{
+    font-size: x-large;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.image{
+    height: 250px;
+    object-fit: cover;
+}
+.div1{
+
+    width: 350px;
+    height: 450px;
+
+}
+.twentyfour{
+    height:550px ;
+    opacity: 1;
+
+}
+.twentyfour:hover{
+opacity: 1;
+cursor: pointer;
+border: 1px solid white;
+}
+.twentyfive{
+ justify-content: center;
+}
+.twentysix{
+    background-color: black;
+}
+.twentyfour > p {
+    margin-top: 15px;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.twentyseven{
+    height: auto;
+    background-image: url(image/15.jpg);
+    background-position: center center;
+}
+.twentyeight{
+    background-image:url(image/15.jpg);
+    width: 100%;
+
+}
+.twenty81{
+    height: 800px;
+}
+.twenty82{
+    height: 700px;
+    width: 100%;
+
+}
+.twenty821{
+    height: 60%;
+}
+.twenty8211{
+    height: auto;
+    border-radius: 20px;
+    background:linear-gradient(rgba(3, 3, 45, 0.784),rgba(3, 3, 41, 0.307)),url(image/5.jpg);
+    background-position: center;
+    font-size: large;
+    color: white;
+    text-align: center;
+    
+}
+.twenty8212{
+    height: auto;
+    border-radius: 20px;
+    background:linear-gradient(rgba(3, 3, 45, 0.784),rgba(3, 3, 41, 0.307)),url(image/7.jpg);
+    background-position: center;
+    font-size: large;
+    color: white;
+    text-align: center;
+}
+.twenty822{
+    height:40%;
+}
+.twenty8222{
+    height:100%;
+    border-radius: 20px;
+    background:linear-gradient(rgba(1, 1, 14, 0.784),rgba(3, 3, 41, 0.307)),url(image/8.jpg);
+    background-position:center center;
+    
+}
+.twenty823{
+    border-radius: 20px;
+    background:linear-gradient(rgba(3, 3, 45, 0.784),rgba(3, 3, 41, 0.307)),url(image/18.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
+    
+}
+.flower{
+    height:max-content;
+    
+}
+.flower1{
+    width:fit-content;
+
+}
+.op1{
+    opacity: 1;
+}
+
+.op1:hover{
+    border: 1px solid white;
+    cursor: pointer
+    }
+    .op2{
+        opacity: 1;
+    }
+    .op2:hover{
+        opacity: 1
+        cursor: pointer;
+        border: 1px solid white;
+        }
+        .op3{
+            opacity: .8;
+        }
+        .op3:hover{
+            opacity: 1;
+            cursor: pointer;
+            }
